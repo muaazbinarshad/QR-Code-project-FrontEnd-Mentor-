@@ -4,8 +4,9 @@
     height: 100vh;
     margin: 0;
     display: flex;
-  justify-content: center;
-  align-items: center;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 5px 5px 5px rgba(0,0,0,0.3);
 }
 body{
     margin: 0;
@@ -42,21 +43,3 @@ display: flex;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }
-.attribution{ 
-    font-size: 11px; 
-    text-align: center;
-    width: 30%;
-    margin: auto;
-    background-color: brown;
-} 
-a { 
-    color: hsl(228, 45%, 44%); 
-    }
-
-    .content{
-        width: 27%;
-        text-align: center;
-        margin: 400px auto;
-        background-color: white;
-        font-family: Arial, Helvetica, sans-serif;
-    }
